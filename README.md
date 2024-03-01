@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sandy047 [Sandeep Kumar Palit]
 - 👀 I’m interested in Machine Learning and Deep Learning.
 - 🌱 I’m currently learning Computer Vision.
-- 💞️ I’m looking to collaborate on anything that benefits the open source community.
+- 💞️ I’m looking to collaborate on anything that benefits the open-source community.
 - 📫 How to reach me ...
 
 <!---
